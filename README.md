@@ -67,14 +67,14 @@ By leveraging text preprocessing, TF-IDF vectorization, and clustering algorithm
   - Hosted on Streamlit Community Cloud
   - Access the live app: [App Link]()
 
-
 ## 📊 Expected Outcomes
-    - Topic clusters that group semantically related research papers
-    - 
-    - 
+  - Topic clusters that group semantically related research papers
+  - 
+  - 
 
 
 ## 👥 Team Members
-    - [Latifat Olabisi Idris]()
-    - [Abdusshakur Olabisi]()
-    - [Nunsi Shiaki]()
+  - [Latifat Olabisi Idris]()
+  - [Abdusshakur Olabisi]()
+  - [Nunsi Shiaki]()
+
