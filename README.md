@@ -45,14 +45,38 @@ By leveraging text preprocessing, TF-IDF vectorization, and clustering algorithm
     - Deploy via Streamlit web app, allowing users to upload datasets, explore clusters, and download topic summaries.
 
 ## 🚀 Usage
+
+## ⚙️ Setup Instructions
+
+### 1. Install Git LFS (for large files)
+This project uses [Git Large File Storage (LFS)](https://git-lfs.github.com) to manage large files such as datasets.
+
+To install Git LFS:
+
+```bash
+# Windows
+choco install git-lfs
+
+# macOS
+brew install git-lfs
+
+# Linux
+sudo apt install git-lfs
+
+# After installation
+git lfs install
+
+
 1. Clone the repo:
    ```bash
    git clone https://github.com/AISaturdaysLagos/C9-team-armah.git
    cd C9-team-armah
+   git lfs pull
    ```
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   
    ```
 3. Run Jupyter notebooks for EDA and modeling:
    ```bash
