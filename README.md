@@ -44,11 +44,11 @@ By leveraging text preprocessing, TF-IDF vectorization, and clustering algorithm
 8. Deployment
     - Deploy via Streamlit web app, allowing users to upload datasets, explore clusters, and download topic summaries.
 
-## 🚀 Usage
 
 ## ⚙️ Setup Instructions
 
 ### 1. Install Git LFS (for large files)
+
 This project uses [Git Large File Storage (LFS)](https://git-lfs.github.com) to manage large files such as datasets.
 
 To install Git LFS:
@@ -65,7 +65,9 @@ sudo apt install git-lfs
 
 # After installation
 git lfs install
+```
 
+## 🚀 Usage
 
 1. Clone the repo:
    ```bash
@@ -76,15 +78,18 @@ git lfs install
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   
    ```
 3. Run Jupyter notebooks for EDA and modeling:
+
    ```bash
    jupyter notebook
    ```
+
 4. Launch the Streamlit app:
+
    ```bash
    streamlit run app.py
+   ```
 
 
 ## 🌐 Deployment
