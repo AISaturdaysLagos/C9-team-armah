@@ -1,0 +1,15 @@
+dask
+pandas
+numpy
+requests
+tqdm
+scikit-learn
+matplotlib
+seaborn
+pytest
+black
+flake8
+mypy
+jupyter
+ipykernel
+
